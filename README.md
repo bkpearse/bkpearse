@@ -1,5 +1,6 @@
 # Hi there 👋
 
+Thanks for stopping by my profile! I'm continually refining the automation that keeps this page up-to-date, so check back soon for more dynamic content.
 Welcome to my GitHub profile! I enjoy exploring new technologies, building delightful developer experiences, and sharing what I learn along the way.
 
 ## About
