@@ -8,9 +8,9 @@
 I'm a data analyst turned platform engineer who loves building reliable systems, insightful dashboards, and developer tooling that makes teams faster. When I'm not automating workflows, you'll find me poring over football analytics, reading sci-fi, or experimenting with new recipes in the kitchen.
 
 ## Current Projects
-- **Observability Jumpstart** – Rolling out a plug-and-play observability stack that brings trace, metrics, and log visibility to small teams in under an hour.
-- **Infra Insights Toolkit** – Crafting notebooks and dashboards that help stakeholders understand infrastructure spend and performance trends.
-- **DevEx Office Hours** – Hosting community sessions focused on improving local developer environments and CI/CD ergonomics.
+- **UX Optimiser** – A team of UX professionals in an app, sounds cool, can it be done?
+- **FPL Insights** – Terribly trying to find an edge.
+- **n8n workflows** – Hosting workflows, focused on automating mundane tasks and leveraging Gemini in google work spaces.
 
 ## Skills & Tools
 - **Languages:** Python, SQL, TypeScript, Go (learning)
@@ -18,15 +18,11 @@ I'm a data analyst turned platform engineer who loves building reliable systems,
 - **Infrastructure & Automation:** Terraform, GitHub Actions, Docker, AWS, Azure
 - **Collaboration:** Notion, Linear, Figma, Miro
 
-## Featured Repositories
-- [**observability-jumpstart**](https://github.com/bkpearse/observability-jumpstart) – Templates and scripts to launch a self-hosted Grafana, Tempo, and Loki stack with sane defaults.
-- [**infra-insights-toolkit**](https://github.com/bkpearse/infra-insights-toolkit) – A collection of dbt models and notebooks that surface cost, usage, and anomaly insights for platform teams.
-- [**developer-experience-playbook**](https://github.com/bkpearse/developer-experience-playbook) – Guides, checklists, and automation recipes for creating delightful developer experiences across the SDLC.
 
 ## How to Reach Me
-- 📬 **Email:** [hello@brandonpearse.dev](mailto:hello@brandonpearse.dev)
+
 - 💬 **LinkedIn:** [linkedin.com/in/bkpearse](https://www.linkedin.com/in/bkpearse/)
-- 🐦 **Bluesky:** [@bkpearse.bsky.social](https://bsky.app/profile/bkpearse.bsky.social)
+
 
 ---
 
