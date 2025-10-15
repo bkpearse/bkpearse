@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Snake Light](https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
 <!--
 **bkpearse/bkpearse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
