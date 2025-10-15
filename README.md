@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg" />
-</picture>
-![GitHub Snake Light](https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+Thanks for stopping by my profile! I'm continually refining the automation that keeps this page up-to-date, so check back soon for more dynamic content.
 
 <!--
 **bkpearse/bkpearse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
