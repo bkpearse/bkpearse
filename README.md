@@ -31,3 +31,6 @@ I'm a data analyst turned platform engineer who loves building reliable systems,
 ---
 
 Let's build something great together—reach out if you want to collaborate, swap ideas, or chat about developer experience and observability!
+<sub>The metrics card above is refreshed every morning by a scheduled GitHub Action powered by the community-maintained <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> project.</sub>
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just chat about tech.
