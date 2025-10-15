@@ -1,0 +1,37 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@v3
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bkpearse
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Etc/UTC
+          filename: metrics.svg
+
+      - name: Commit metrics artifact
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg
+          git commit -m "chore: update metrics" || echo "No changes to commit"
+          git push

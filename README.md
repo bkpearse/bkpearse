@@ -1,24 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg" />
-</picture>
-![GitHub Snake Light](https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/bkpearse/bkpearse/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+Welcome to my GitHub profile! I enjoy exploring new technologies, building delightful developer experiences, and sharing what I learn along the way.
 
-<!--
-**bkpearse/bkpearse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+- 💼 Software engineer who loves solving challenging problems with clean, pragmatic solutions.
+- 🌱 Currently diving deeper into infrastructure automation and developer tooling.
+- 🤝 Always excited to collaborate on open-source projects that make development more accessible.
+- 🎯 Outside of coding you can find me cycling, reading sci-fi, or experimenting in the kitchen.
 
-Here are some ideas to get you started:
+## Highlights
+- 📌 Browse a snapshot of my recent activity, repositories, and community involvement in the metrics card below.
+- 🧰 Check out the repositories pinned on my profile for a curated list of what I have been building lately.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Metrics](./metrics.svg)
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just chat about tech.
