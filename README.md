@@ -14,4 +14,6 @@ Welcome to my GitHub profile! I enjoy exploring new technologies, building delig
 
 ![GitHub Metrics](./metrics.svg)
 
+<sub>The metrics card above is refreshed every morning by a scheduled GitHub Action powered by the community-maintained <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> project.</sub>
+
 Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just chat about tech.
