@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I enjoy exploring new technologies, building delightful developer experiences, and sharing what I learn along the way.
 
 ## About
-- 💼 Software engineer who loves solving challenging problems with clean, pragmatic solutions.
+- 💼 Data Analyst who loves solving challenging problems with clean, pragmatic solutions.
 - 🌱 Currently diving deeper into infrastructure automation and developer tooling.
 - 🤝 Always excited to collaborate on open-source projects that make development more accessible.
-- 🎯 Outside of coding you can find me cycling, reading sci-fi, or experimenting in the kitchen.
+- 🎯 Outside of coding you can find me watching Football, reading sci-fi, or experimenting in the kitchen.
 
 ## Highlights
 - 📌 Browse a snapshot of my recent activity, repositories, and community involvement in the metrics card below.
