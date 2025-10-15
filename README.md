@@ -1,11 +1,11 @@
-# Hi there, I'm Brandon Pearse 👋
+# Hi there, I'm Benjamin Pearse 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/bkpearse?style=social)](https://github.com/bkpearse?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/bkpearse?affiliations=OWNER&style=social)](https://github.com/bkpearse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bkpearse/)
 
 ## About Me
-I'm a data analyst turned platform engineer who loves building reliable systems, insightful dashboards, and developer tooling that makes teams faster. When I'm not automating workflows, you'll find me poring over football analytics, reading sci-fi, or experimenting with new recipes in the kitchen.
+I'm a data analyst hoping to morph into a ai engineer who loves building reliable systems, insightful dashboards, and developer tooling that makes teams faster. When I'm not automating workflows, you'll find me poring over football analytics, reading sci-fi, or experimenting with new recipes in the kitchen.
 
 ## Current Projects
 - **UX Optimiser** – A team of UX professionals in an app, sounds cool, can it be done?
