@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bkpearse/)
 
 ## About Me
-I'm a data analyst hoping to morph into a ai engineer who loves building reliable systems, insightful dashboards, and developer tooling that makes teams faster. When I'm not automating workflows, you'll find me poring over football analytics, reading sci-fi, or experimenting with new recipes in the kitchen.
+I'm a tech lover building insightful dashboards, and developing tooling that makes teams faster. When I'm not automating workflows, you'll find me crawling through football analytics, reading sci-fi, or experimenting with new recipes in the kitchen.
 
 ## Current Projects
 - **UX Optimiser** – A team of UX professionals in an app, sounds cool, can it be done?
